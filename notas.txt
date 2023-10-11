@@ -1,0 +1,6 @@
+ligatures 
+
+https://www.dafont.com/
+google fonts
+w3school= página donde estan las etiquetas 
+https://developer.mozilla.org/es/docs/Web/HTML
